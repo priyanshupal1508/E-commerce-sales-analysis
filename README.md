@@ -7,9 +7,11 @@ This project focuses on transforming raw data into meaningful business metrics t
 
 Key Objectives
 Monthly Sales Analysis: Identifying peak and low-performing sales months.
+
 Category Performance: Evaluating which product categories and sub-categories generate the most revenue and profit.
 Customer Segmentation: Analyzing sales and profit distributions across different customer segments (Consumer, Corporate, Home Office).
 Profitability Metrics: Calculating the sales-to-profit ratio to determine the true value of product lines.
+
 Technologies Used
 Language: Python
 Data Manipulation: Pandas, NumPy
